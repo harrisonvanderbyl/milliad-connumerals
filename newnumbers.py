@@ -117,4 +117,4 @@ def convertToNew(number):
     return newWhole + newDecimal
 
 
-print(convertToNew(0.000045))
+print(convertToNew(530364))

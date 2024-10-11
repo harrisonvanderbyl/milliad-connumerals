@@ -1,0 +1,7 @@
+This is a conlang number converter for the web serial "Onward to Providence" by https://github.com/nighzmarquls
+
+Its meant to be a scale invariant way of pronouncing numbers.
+for example:
+0.000045 = thæshɛ
+540000000 = lɛnæk
+530364 = thɛnikdinɪnæ
